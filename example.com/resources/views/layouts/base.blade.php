@@ -572,7 +572,11 @@
     <link rel="stylesheet" id="fl-builder-layout-5-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/5-layout.css') }}" media="all">
     <link rel="stylesheet" id="marathon-btc-data-css" href="{{ asset('/wp-content/plugins/marathon-btc-data/marathon-btc-data.css') }}" media="all">
     <link rel="stylesheet" id="font-awesome-5-css" href="{{ asset('/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.css') }}" media="all">
-    <link rel="stylesheet" id="fl-builder-layout-bundle-10ab935c02c7d5308db2704d115e1899-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/10ab935c02c7d5308db2704d115e1899-layout-bundle.css') }}" media="all">
+    @if (request()->is('/'))
+        <link rel="stylesheet" id="fl-builder-layout-bundle-10ab935c02c7d5308db2704d115e1899-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/10ab935c02c7d5308db2704d115e1899-layout-bundle.css') }}" media="all">
+    @else
+        <link rel="stylesheet" id="fl-builder-layout-bundle-c81146a9d9731f21365344baf1ecad30-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/c81146a9d9731f21365344baf1ecad30-layout-bundle.css') }}" media="all">
+    @endif
     <link rel="stylesheet" id="jquery-magnificpopup-css" href="{{ asset('/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.css') }}" media="all">
     <link rel="stylesheet" id="base-css" href="{{ asset('/wp-content/themes/bb-theme/css/base.css') }}" media="all">
     <link rel="stylesheet" id="fl-automator-skin-css" href="{{ asset('/wp-content/uploads/bb-theme/skin-631bb44540584.css') }}" media="all">

@@ -10,7 +10,7 @@
                             <div id="header-logo" class="fl-module fl-module-html fl-node-603ce73ea0d3b" data-node="603ce73ea0d3b">
                                 <div class="fl-module-content fl-node-content">
                                     <div class="fl-html">
-                                        <a href="https://www.marathondh.com/">
+                                        <a href="{{ route('home') }}">
                                             <span class="sr-only">Marathon Digital Holdings</span>
                                             <svg id="marathon-logo" fill="none" viewBox="0 0 1350 183" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <clipPath id="a">
@@ -56,13 +56,13 @@
                                 <div class="fl-module-content fl-node-content">
                                     <div class="fl-menu fl-menu-responsive-toggle-medium-mobile">
                                         <button class="fl-menu-mobile-toggle hamburger" aria-label="Menu">
-														<span class="svg-container">
-															<svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
-																<rect class="fl-hamburger-menu-top" width="512" height="102"></rect>
-																<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"></rect>
-																<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"></rect>
-															</svg>
-														</span>
+                                            <span class="svg-container">
+                                                <svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+                                                    <rect class="fl-hamburger-menu-top" width="512" height="102"></rect>
+                                                    <rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"></rect>
+                                                    <rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"></rect>
+                                                </svg>
+                                            </span>
                                         </button>
                                         <div class="fl-clear"></div>
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">

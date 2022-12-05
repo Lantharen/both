@@ -20,11 +20,14 @@
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                                             <ul id="menu-about" class="menu fl-menu-vertical fl-toggle-none">
                                                 <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://www.marathondh.com/about">About</a></li>
+                                                    <a href="https://www.marathondh.com/about">About</a>
+                                                </li>
                                                 <li id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom">
-                                                    <a href="https://ir.marathondh.com">Investors</a></li>
+                                                    <a href="https://ir.marathondh.com">Investors</a>
+                                                </li>
                                                 <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item">
-                                                    <a href="/contact">Contact</a></li>
+                                                    <a href="/contact">Contact</a>
+                                                </li>
                                             </ul>
                                         </nav>
                                     </div>

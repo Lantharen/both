@@ -13,23 +13,21 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'pages.home');
+Route::view('/', 'pages.home')->name('home');
 
-Route::view('/contact', 'pages.contact');
+Route::view('/contact', 'pages.contact')->name('contact');
 
-Route::view('/corporate-governance', 'pages.corporate-governance');
+Route::view('/corporate-governance', 'pages.corporate-governance')->name('corporate-governance');
 
-Route::view('/sec-filings', 'pages.sec-filings');
+Route::view('/sec-filings', 'pages.sec-filings')->name('sec-filings');
 
-Route::view('/stock-data', 'pages.quote');
+Route::view('/stock-data/quote', 'pages.quote')->name('stock-data.quote');
 
-Route::view('/stock-data/quote', 'pages.quote');
+Route::view('/financial-information', 'pages.financial-information')->name('financial-information');
 
-Route::view('/financial-information', 'pages.financial-information');
+Route::view('/company-information', 'pages.company-information')->name('company-information');
 
-Route::view('/company-information', 'pages.company-information');
-
-Route::view('/news-events', 'pages.news-events');
+Route::view('/news-events', 'pages.news-events')->name('news-events');
 
 
 

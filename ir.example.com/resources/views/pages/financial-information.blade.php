@@ -34,7 +34,8 @@
                                 <div class="meat"></div>
                                 <div class="meat"></div>
                             </div>
-                            Investors </a>
+                            Investors
+                        </a>
                         <div class="collapse sb-nav clearfix" id="sub-navigation">
                             <h3>Investors</h3>
                             <ul>
@@ -253,15 +254,15 @@
                             </div>
                             <h2>Latest 10-K</h2>
                             <div class="inline-btn">
-                                <a class="btn fancybox fancybox.iframe" href="/sec-filings/all-sec-filings/content/0001493152-22-006446/form10-k.htm" rel="noopener">View HTML<span class="material-icons">arrow_forward</span></a>
-                                <a class="btn" href="/sec-filings/all-sec-filings/content/0001493152-22-006446/0001493152-22-006446.pdf" target="_blank" rel="noopener">View PDF<span class="material-icons">arrow_forward</span></a>
+                                <a class="btn fancybox fancybox.iframe" href="/sec-filings/all-sec-filings/content/0001493152-22-006446/form10-k.htm" rel="noopener">View HTML</a>
+                                <a class="btn" href="/sec-filings/all-sec-filings/content/0001493152-22-006446/0001493152-22-006446.pdf" target="_blank" rel="noopener">View PDF</a>
                             </div>
                             <h2>Financials</h2>
                             <p>View the latest financials</p>
                             <div class="inline-btn">
-                                <a href="/financial-information/balance-sheet" class="btn">Balance Sheet <span class="material-icons">arrow_forward</span></a>
-                                <a href="/financial-information/income-statement" class="btn">Income Statement <span class="material-icons">arrow_forward</span></a>
-                                <a href="/financial-information/cash-flow" class="btn">Cash Flow <span class="material-icons">arrow_forward</span></a>
+                                <a href="/financial-information/balance-sheet" class="btn">Balance Sheet</a>
+                                <a href="/financial-information/income-statement" class="btn">Income Statement</a>
+                                <a href="/financial-information/cash-flow" class="btn">Cash Flow</a>
                             </div>
                         </main>
                     </div>

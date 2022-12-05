@@ -182,7 +182,7 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="header">
-                                        <a href="https://ir.marathondh.com/news-events/press-releases" class="btn desktop-all">View All News<span class="material-icons">arrow-forward</span></a>
+                                        <a href="https://ir.marathondh.com/news-events/press-releases" class="btn desktop-all">View All News</a>
                                         <h2>Latest News</h2>
                                         <time class="date" datetime="2022-11-08T16:05:00">Nov 8, 2022 • 4:05pm EST</time>
                                     </div><!--end header-->
@@ -403,8 +403,8 @@
                                             <p>Marathon is a digital asset technology company that mines cryptocurrencies, with a focus on the blockchain ecosystem and the generation of digital assets. We currently operate our proprietary Data Center in Hardin MT with a maximum power capacity of 105 Megawatts. The Company also owns 2,060 advanced ASIC Bitcoin Miners at a co-hosted facility in North Dakota.</p>
                                             <p>Marathon is on-track to deploy&nbsp;133,000 miners, which are expected to generate approximately&nbsp;13.3 Exahash&nbsp;by mid 2022.</p>
                                             <div class="inline-btn">
-                                                <a href="/company-information/management-team" class="btn">View Management Team<span class="material-icons">arrow_forward</span></a>
-                                                <a href="/corporate-governance/board-of-directors" class="btn">View Board of Directors<span class="material-icons">arrow_forward</span></a>
+                                                <a href="/company-information/management-team" class="btn">View Management Team</a>
+                                                <a href="/corporate-governance/board-of-directors" class="btn">View Board of Directors</a>
                                             </div>
                                         </div>
                                     </div>
@@ -498,19 +498,7 @@
         </script>
         <script src="{{ asset('/_640653e429ebf8728c194bd275de5597/marathondh/files/theme/site-files/20210330/wp-content/themes/bb-theme/js/theme.js') }}" id="fl-automator-js"></script>
         <script src="{{ asset('/_640653e429ebf8728c194bd275de5597/marathondh/files/theme/site-files/20210330/wp-includes/js/wp-embed.min.js') }}" id="wp-embed-js"></script>
-        <script id="companyVars" type="application/json">
-{
-    "asset_url": "https:\/\/d1io3yog0oux5.cloudfront.net\/_640653e429ebf8728c194bd275de5597\/marathondh",
-    "website_base_url": "https:\/\/ir.marathondh.com",
-    "ir_base_url": "",
-    "isQmod": true}
-
-        </script>
-
-
         <script src="{{ asset('/_640653e429ebf8728c194bd275de5597/marathondh/files/theme/js/_js/all.js') }}"></script>
-
-        <script id="qmod" src="https://qmod.quotemedia.com/js/qmodLoader.js" data-qmod-wmid="93303" data-qmod-env="app" data-qmod-version="v1.26.0" defer=""></script>
         <script src="{{ asset('/_640653e429ebf8728c194bd275de5597/marathondh/files/theme/js/aside/_js/browser-check.min.js') }}" async=""></script>
     </div>
 

@@ -56,7 +56,8 @@
             width: 100%;
             height: 100%;
         }</style>
-    <style>.pure-g {
+    <style>
+        .pure-g {
             display: -webkit-flex;
             -webkit-flex-flow: row wrap;
             display: -ms-flexbox;
@@ -7601,7 +7602,7 @@
         }
     </style>
 </head>
-<body class="@yield('page-class')">
+<body class="@yield('page-class')" style="padding-top: 125px;">
 
 
 @yield('page-content')

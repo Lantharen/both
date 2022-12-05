@@ -120,7 +120,7 @@ L201.5,47.5L201.5,47.5z M201.1,19.6v-5.8c0-2.1-1.7-3.7-3.8-3.7h-36.9v13.3h36.9C1
                                                     </div>
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                            <a href="https://example.com/posts/">Posts</a>
+                                                            <a href="/posts/">Posts</a>
                                                         </li>
                                                         <li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom">
                                                             <a href="https://ir.marathondh.com/news-events/press-releases">Press Releases</a>
