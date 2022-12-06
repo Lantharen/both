@@ -1,5 +1,6 @@
 <nav id="sectionNav" class="sub-navigation-wrapper" aria-label="Investors Section">
     <div class="sub-navigation affixed affix-top">
+
         <div class="container">
             <a class="visible-xs visible-sm mobile-sub-nav-trigger collapsed" data-toggle="collapse" data-target="#sub-navigation">
                 <div class="trigger-container">
@@ -7,7 +8,7 @@
                     <div class="meat"></div>
                     <div class="meat"></div>
                 </div>
-                Investors            </a>
+                Investors </a>
             <div class="collapse sb-nav clearfix" id="sub-navigation">
                 <h3>Investors</h3>
                 <ul>

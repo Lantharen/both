@@ -25,7 +25,9 @@
                     </div>
                 </div>
             </header>
+
             @include('pages.includes.nav')
+
             <div class="container">
                 <div class="row">
 
