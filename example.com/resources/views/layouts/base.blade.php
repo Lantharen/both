@@ -568,7 +568,6 @@
             line-height: 1.6;
         }
     </style>
-
     <link rel="stylesheet" id="fl-builder-layout-5-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/5-layout.css') }}" media="all">
     <link rel="stylesheet" id="marathon-btc-data-css" href="{{ asset('/wp-content/plugins/marathon-btc-data/marathon-btc-data.css') }}" media="all">
     <link rel="stylesheet" id="font-awesome-5-css" href="{{ asset('/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.css') }}" media="all">
