@@ -65,7 +65,7 @@
 
 
                             <h2>Recent News
-                                <a class="view-all-cta block-link" href="https://ir.marathondh.com/news-events/press-releases">View All News</a>
+                                <a class="view-all-cta block-link" href="https://ir.example.com/news-events/press-releases">View All News</a>
                             </h2>
                             <article class="media">
                                 <div class="media-body">
@@ -88,7 +88,7 @@
                                 </div>
                             </article> <!-- .text -->
                             <p>
-                                <a class="btn landing-btn" href="https://ir.marathondh.com/news-events/press-releases">View All News</a>
+                                <a class="btn landing-btn" href="https://ir.example.com/news-events/press-releases">View All News</a>
                             </p>
                             <h2>Recent Events
                                 <a class="view-all-cta block-link" href="/news-events/ir-calendar">View IR Calendar</a>
@@ -135,7 +135,7 @@
                     <li><a href="/news-events/email-alerts" class="email">Email Alerts</a></li>
                     <li><a href="/company-information/contacts" class="contacts">Contacts</a></li>
                     <li>
-                        <a href="https://ir.marathondh.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
+                        <a href="https://ir.example.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
                     </li>
                 </ul>
             </div>

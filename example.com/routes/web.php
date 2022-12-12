@@ -27,6 +27,16 @@ Route::view('/timeline', 'pages.timeline')->name('timeline');
 
 Route::view('/our-facilities', 'pages.our-facilities')->name('our-facilities');
 
+Route::view('/privacy-policy', 'pages.privacy-policy')->name('privacy-policy');
+
+Route::view('/disclaimer', 'pages.disclaimer')->name('disclaimer');
+
+Route::view('/glossary', 'pages.glossary')->name('glossary');
+
+
+
+
+
 
 
 

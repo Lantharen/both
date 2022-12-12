@@ -79,13 +79,13 @@
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                                             <ul id="menu-news" class="menu fl-menu-vertical fl-toggle-none">
                                                 <li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-                                                    <a href="https://ir.marathondh.com/news-events">News &amp; Events</a>
+                                                    <a href="https://ir.example.com/news-events">News &amp; Events</a>
                                                 </li>
                                                 <li id="menu-item-75" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-                                                    <a href="https://ir.marathondh.com/news-events/press-releases">Press Releases</a>
+                                                    <a href="https://ir.example.com/news-events/press-releases">Press Releases</a>
                                                 </li>
                                                 <li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category">
-                                                    <a href="https://ir.marathondh.com/news-events/in-the-news">In the News</a>
+                                                    <a href="https://ir.example.com/news-events/in-the-news">In the News</a>
                                                 </li>
                                                 <li id="menu-item-533" class="menu-item menu-item-type-custom menu-item-object-custom">
                                                     <a href="https://twitter.com/MarathonDH" target="_blank" rel="undefinednoopener">Twitter</a>

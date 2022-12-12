@@ -136,7 +136,7 @@
                     <li><a href="/news-events/email-alerts" class="email">Email Alerts</a></li>
                     <li><a href="/company-information/contacts" class="contacts">Contacts</a></li>
                     <li>
-                        <a href="https://ir.marathondh.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
+                        <a href="https://ir.example.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
                     </li>
                 </ul>
             </div>

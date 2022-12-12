@@ -95,14 +95,14 @@
                                                     <a href="/">Investors</a></li>
                                                 <li id="menu-item-243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu">
                                                     <div class="fl-has-submenu-container">
-                                                        <a href="https://ir.marathondh.com/news-events">News</a><span class="fl-menu-toggle"></span>
+                                                        <a href="https://ir.example.com/news-events">News</a><span class="fl-menu-toggle"></span>
                                                     </div>
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom">
-                                                            <a href="https://ir.marathondh.com/news-events/press-releases">Press Releases</a>
+                                                            <a href="https://ir.example.com/news-events/press-releases"">Press Releases</a>
                                                         </li>
                                                         <li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom">
-                                                            <a href="https://ir.marathondh.com/news-events/in-the-news">In the News</a>
+                                                            <a href="https://ir.example.com/news-events/in-the-news">In the News</a>
                                                         </li>
                                                     </ul>
                                                 </li>

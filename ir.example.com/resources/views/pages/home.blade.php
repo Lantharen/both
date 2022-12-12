@@ -44,7 +44,7 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="header">
-                                        <a href="https://ir.marathondh.com/news-events/press-releases" class="btn desktop-all">View All News</a>
+                                        <a href="https://ir.example.com/news-events/press-releases" class="btn desktop-all">View All News</a>
                                         <h2>Latest News</h2>
                                         <time class="date" datetime="2022-11-08T16:05:00">Nov 8, 2022 • 4:05pm EST</time>
                                     </div><!--end header-->
@@ -88,7 +88,7 @@
                                     </article>
                                 </a>
                             </div><!--end cell-->
-                            <a href="https://ir.marathondh.com/news-events/press-releases" class="btn mobile-all">View All News</a>
+                            <a href="https://ir.example.com/news-events/press-releases" class="btn mobile-all">View All News</a>
                         </div><!--end news-blocks-->
                     </div>
                 </section>
@@ -319,7 +319,7 @@
                     <li><a href="/news-events/email-alerts" class="email">Email Alerts</a></li>
                     <li><a href="/company-information/contacts" class="contacts">Contacts</a></li>
                     <li>
-                        <a href="https://ir.marathondh.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
+                        <a href="https://ir.example.com/news-events/press-releases/rss" class="rss" target="_blank" rel="noopener">RSS News Feed</a>
                     </li>
                 </ul>
             </div>

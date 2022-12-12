@@ -9,7 +9,7 @@
                             <div id="header-logo" class="fl-module fl-module-html fl-node-603ce73ea0d3b" data-node="603ce73ea0d3b">
                                 <div class="fl-module-content fl-node-content">
                                     <div class="fl-html">
-                                        <a href="/">
+                                        <a href="{{ route('home') }}">
                                             <span class="sr-only">Marathon Digital Holdings</span>
                                             <!--?xml version="1.0" encoding="utf-8"?-->
                                             <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->

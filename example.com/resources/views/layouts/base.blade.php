@@ -573,6 +573,8 @@
     <link rel="stylesheet" id="font-awesome-5-css" href="{{ asset('/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.css') }}" media="all">
     @if (request()->is('/'))
         <link rel="stylesheet" id="fl-builder-layout-bundle-10ab935c02c7d5308db2704d115e1899-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/10ab935c02c7d5308db2704d115e1899-layout-bundle.css') }}" media="all">
+    @elseif (request()->is('/about'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/500-layout.css') }}">
     @else
         <link rel="stylesheet" id="fl-builder-layout-bundle-c81146a9d9731f21365344baf1ecad30-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/c81146a9d9731f21365344baf1ecad30-layout-bundle.css') }}" media="all">
     @endif
