@@ -721,7 +721,7 @@
                                                                 <div class="fl-module fl-module-button fl-node-60425d3430b80" data-node="60425d3430b80">
                                                                     <div class="fl-module-content fl-node-content">
                                                                         <div class="fl-button-wrap fl-button-width-auto fl-button-center fl-button-has-icon">
-                                                                            <a href="https://ir.marathondh.com" target="_self" class="fl-button" role="button">
+                                                                            <a href="{{ route('home') }}" target="_self" class="fl-button" role="button">
                                                                                 <span class="fl-button-text">Investor Relations</span>
                                                                                 <i class="fl-button-icon fl-button-icon-after fas fa-arrow-circle-right" aria-hidden="true"></i>
                                                                             </a>

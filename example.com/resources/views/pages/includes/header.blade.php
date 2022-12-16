@@ -101,7 +101,7 @@ L201.5,47.5L201.5,47.5z M201.1,19.6v-5.8c0-2.1-1.7-3.7-3.8-3.7h-36.9v13.3h36.9C1
                                             <ul id="menu-main-menu" class="menu fl-menu-horizontal fl-toggle-arrows">
                                                 <li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children fl-has-submenu" aria-haspopup="true">
                                                     <div class="fl-has-submenu-container">
-                                                        <a href="https://marathondh.com/about/">About</a><span class="fl-menu-toggle"></span>
+                                                        <a href="{{ route('about') }}">About</a><span class="fl-menu-toggle"></span>
                                                     </div>
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom">

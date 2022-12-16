@@ -22,7 +22,7 @@
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                                             <ul id="menu-about" class="menu fl-menu-vertical fl-toggle-none">
                                                 <li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://marathondh.com/about/">About</a>
+                                                    <a href="{{ route('about') }}">About</a>
                                                 </li>
                                                 <li id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom">
                                                     <a href="https://ir.marathondh.com/">Investors</a>
@@ -54,9 +54,9 @@
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                                             <ul id="menu-bitcoin" class="menu fl-menu-vertical fl-toggle-none">
                                                 <li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://marathondh.com/glossary/">Glossary</a></li>
+                                                    <a href="{{ route('glossary') }}">Glossary</a></li>
                                                 <li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://marathondh.com/mining/">What is Mining?</a>
+                                                    <a href="{{ route('mining') }}">What is Mining?</a>
                                                 </li>
                                             </ul>
                                         </nav>
@@ -142,10 +142,10 @@
                                         <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                                             <ul id="menu-legal" class="menu fl-menu-horizontal fl-toggle-none">
                                                 <li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy">
-                                                    <a href="https://marathondh.com/privacy-policy/">Privacy Policy</a>
+                                                    <a href="{{ route('privacy-policy') }}">Privacy Policy</a>
                                                 </li>
                                                 <li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                    <a href="https://marathondh.com/disclaimer/">Disclaimer</a>
+                                                    <a href="{{ route('disclaimer') }}">Disclaimer</a>
                                                 </li>
                                             </ul>
                                         </nav>

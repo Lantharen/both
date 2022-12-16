@@ -571,10 +571,42 @@
     <link rel="stylesheet" id="fl-builder-layout-5-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/5-layout.css') }}" media="all">
     <link rel="stylesheet" id="marathon-btc-data-css" href="{{ asset('/wp-content/plugins/marathon-btc-data/marathon-btc-data.css') }}" media="all">
     <link rel="stylesheet" id="font-awesome-5-css" href="{{ asset('/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.css') }}" media="all">
-    @if (request()->is('/'))
-        <link rel="stylesheet" id="fl-builder-layout-bundle-10ab935c02c7d5308db2704d115e1899-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/10ab935c02c7d5308db2704d115e1899-layout-bundle.css') }}" media="all">
-    @elseif (request()->is('/about'))
+    @if (request()->is('about'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/98d182951938a65afcfb3ba8754e0681-layout-bundle.css') }}">
         <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/500-layout.css') }}">
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-theme/skin-631bb44540584.css') }}">
+
+    @elseif (request()->is('disclaimer'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/130c66cb3c4428ae0d3ef9142668aff8-layout-bundle.css') }}">
+
+    @elseif (request()->is('glossary'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/130c66cb3c4428ae0d3ef9142668aff8-layout-bundle.css') }}">
+
+    @elseif (request()->is('/'))
+        <link rel="stylesheet" id="fl-builder-layout-bundle-10ab935c02c7d5308db2704d115e1899-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/10ab935c02c7d5308db2704d115e1899-layout-bundle.css') }}" media="all">
+
+    @elseif (request()->is('marathon-responds-to-congressional-inquiry'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/94bb66e28e4f7508b39fef7f9b0d097d-layout-bundle.css') }}">
+
+    @elseif (request()->is('mining'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/98d182951938a65afcfb3ba8754e0681-layout-bundle.css') }}">
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/18-layout.css') }}">
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-theme/skin-631bb44540584.css') }}">
+
+    @elseif (request()->is('our-facilities'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/130c66cb3c4428ae0d3ef9142668aff8-layout-bundle.css') }}">
+
+    @elseif (request()->is('privacy-policy'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/130c66cb3c4428ae0d3ef9142668aff8-layout-bundle.css') }}">
+
+    @elseif (request()->is('strategic-partnerships'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/130c66cb3c4428ae0d3ef9142668aff8-layout-bundle.css') }}">
+
+    @elseif (request()->is('timeline'))
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/98d182951938a65afcfb3ba8754e0681-layout-bundle.css') }}">
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-plugin/cache/354-layout.css') }}">
+        <link rel="stylesheet" href="{{ asset('/wp-content/uploads/bb-theme/skin-631bb44540584.css') }}">
+
     @else
         <link rel="stylesheet" id="fl-builder-layout-bundle-c81146a9d9731f21365344baf1ecad30-css" href="{{ asset('/wp-content/uploads/bb-plugin/cache/c81146a9d9731f21365344baf1ecad30-layout-bundle.css') }}" media="all">
     @endif

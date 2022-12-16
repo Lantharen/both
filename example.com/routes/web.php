@@ -33,6 +33,11 @@ Route::view('/disclaimer', 'pages.disclaimer')->name('disclaimer');
 
 Route::view('/glossary', 'pages.glossary')->name('glossary');
 
+Route::view('/marathon-responds-to-congressional-inquiry', 'pages.marathon-responds-to-congressional-inquiry')->name('marathon-responds-to-congressional-inquiry');
+
+
+
+
 
 
 

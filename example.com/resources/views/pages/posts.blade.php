@@ -52,7 +52,7 @@
 
                                                                 <div class="uabb-post-thumbnail  ">
 
-                                                                    <a href="https://marathondh.com/marathon-responds-to-congressional-inquiry/" target="_self" title="Marathon Responds To Congressional Inquiry">
+                                                                    <a href="{{ route('marathon-responds-to-congressional-inquiry') }}" target="_self" title="Marathon Responds To Congressional Inquiry">
                                                                         <img decoding="async" src="{{ asset('/wp-content/uploads/2022/02/Untitled-3840-×-2160-px-5-3840x2160.png') }}" alt="">
                                                                     </a>
 
@@ -60,7 +60,7 @@
 
                                                                 <div class="uabb-blog-post-content">
                                                                     <h3 class="uabb-post-heading uabb-blog-post-section">
-                                                                        <a href="https://marathondh.com/marathon-responds-to-congressional-inquiry/" title="Marathon Responds To Congressional Inquiry" tabindex="0" class="">Marathon Responds To Congressional Inquiry</a>
+                                                                        <a href="{{ route('marathon-responds-to-congressional-inquiry') }}" title="Marathon Responds To Congressional Inquiry" tabindex="0" class="">Marathon Responds To Congressional Inquiry</a>
                                                                     </h3>
                                                                     <h5 class="uabb-post-meta uabb-blog-post-section">
 							<span class="uabb-meta-date">
@@ -68,7 +68,7 @@
 			Feb 14, 2022			</span>
                                                                     </h5>
                                                                     <div class="uabb-blog-posts-description uabb-blog-post-section uabb-text-editor">On January 27, 2022, Marathon Digital Holdings, Inc.&nbsp;(NASDAQ:MARA) (“Marathon” or “Company”), one of the largest enterprise Bitcoin self-mining companies in North America,&nbsp;received a letter from several members of Congress regarding the Company’s bitcoin mining operations. The original letter Marathon received is accessible on Senator Elizabeth Warren’s website. On February 10, 2022, the Company issued their…</div>
-                                                                    <span class="uabb-read-more-text uabb-blog-post-section"><a href="https://marathondh.com/marathon-responds-to-congressional-inquiry/" target="_self">Read More <span class="uabb-next-right-arrow">→</span></a></span>
+                                                                    <span class="uabb-read-more-text uabb-blog-post-section"><a href="{{ route('marathon-responds-to-congressional-inquiry') }}" target="_self">Read More <span class="uabb-next-right-arrow">→</span></a></span>
                                                                 </div>
                                                             </div>
                                                         </div>

@@ -65,7 +65,7 @@
 
 
                             <h2>Recent News
-                                <a class="view-all-cta block-link" href="https://ir.example.com/news-events/press-releases">View All News</a>
+                                <a class="view-all-cta block-link" href="{{ route('news-events.press-releases') }}">View All News</a>
                             </h2>
                             <article class="media">
                                 <div class="media-body">
